@@ -1,0 +1,28 @@
+{
+  "name": "platzomcg",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzomcg",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgonzalezp91/platzomcg.git"
+  },
+  "keywords": [
+    "platzomcg",
+    "platzi",
+    "fundamentos",
+    "js"
+  ],
+  "author": "“Carlos (https://www.linkedin.com/in/carlos-gonzalez-pe%C3%B1a-32747a159/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
