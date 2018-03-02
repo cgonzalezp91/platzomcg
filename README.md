@@ -27,7 +27,7 @@ import pltazom from 'platzom'
 ```
 
 ## Creditos
-- [Carlos Gonzalez](https://www.linkedin.com/in/carlos-gonzalez-pe%C3%B1a-32747a159/)
+- [Carlos Gonzalez](https://www.linkedin.com/in/cgonzalezp91/)
 
 ## Licencia
 

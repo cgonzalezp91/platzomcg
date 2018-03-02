@@ -1,7 +1,7 @@
 
-
 const expect = require('chai').expect
 const platzom = require('..').default
+
 
 describe('#platzom',function(){
 	it('Si la palabra termina en "ar", se le quitan esos dos caracteres', function(){
